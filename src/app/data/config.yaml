@@ -1,0 +1,16 @@
+cookie:
+  expiry_days: 1
+  key: demo
+  name: streamlit-auth-demo
+credentials:
+  usernames:
+    admin:
+      admin: true
+      email: admin@example.com
+      name: admindayo
+      password: $2b$12$BJY9yrKWUOylvU2cJ2SvuuMD9mUHKe/2JjbBdQMRWqxSPl/dUDI32
+    user:
+      admin: false
+      email: user@example.com
+      name: userdayo
+      password: $2b$12$ABfWnBaWojSsEiZXjPVJZOvzgUSf0F8KD/NEZXMp30zuRiPfu.hz.

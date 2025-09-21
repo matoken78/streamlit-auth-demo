@@ -1,1 +1,1 @@
-# streamlit-trial
+# streamlit-auth-demo

@@ -14,3 +14,8 @@ credentials:
       email: user@example.com
       name: userdayo
       password: $2b$12$ABfWnBaWojSsEiZXjPVJZOvzgUSf0F8KD/NEZXMp30zuRiPfu.hz.
+    user2:
+      admin: false
+      email: x
+      name: user2
+      password: $2b$12$y48LCOyWpfghHburAYhgquMbHpzDm8EqqDraQm0MOatejmlu3cz7.
